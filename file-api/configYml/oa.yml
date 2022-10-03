@@ -1,0 +1,5 @@
+# OA電腦開發環境
+server:
+  port: "8080"
+file:
+  path: "/file-api"

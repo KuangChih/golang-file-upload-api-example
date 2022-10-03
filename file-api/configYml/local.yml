@@ -1,0 +1,5 @@
+# 本地電腦運行環境
+server:
+  port: "8080"
+file:
+  path: "/file-api"
