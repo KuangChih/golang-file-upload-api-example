@@ -1,0 +1,5 @@
+# Stage驗證環境
+server:
+  port: "8080"
+file:
+  path: "/file-api"
